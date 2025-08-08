@@ -26,46 +26,46 @@
   - Lägg köttstrimlorna i en stor plastpåse eller skål.
   - I en separat skål, vispa ihop marinaden:
     - 1,2 dl japansk ljus soja
-      - 2 msk Worcestersås
-        - 1 tsk grovmalen svartpeppar
-          - 1 tsk liquid smoke
-            - 1 tsk lökpulver
-              - 1 tsk Allroundkrydda eller Grillkrydda
-                - ½ tsk vitlökspulver
-                - Häll marinaden över köttet och blanda så att allt täcks jämnt.
-                - Förslut påsen eller täck skålen, och låt köttet marinera i kylskåpet i minst 30 minuter eller upp till 24 timmar.
+    - 2 msk Worcestersås
+    - 1 tsk grovmalen svartpeppar
+    - 1 tsk liquid smoke
+    - 1 tsk lökpulver
+    - 1 tsk Allroundkrydda eller Grillkrydda
+    - ½ tsk vitlökspulver
+    - Häll marinaden över köttet och blanda så att allt täcks jämnt.
+    - Förslut påsen eller täck skålen, och låt köttet marinera i kylskåpet i minst 30 minuter eller upp till 24 timmar.
 
-                ### 3. Förbered för torkning:
-                - Värm ugnen till 80°C. Om din ugn inte når denna temperatur, använd den lägsta inställningen och håll ugnsluckan lite på glänt för luftcirkulation.
-                - Klä bakplåtar med aluminiumfolie för enkel rengöring.
-                - Placera ugnsgaller ovanpå plåtarna för att möjliggöra luftcirkulation runt köttet.
+  ### 3. Förbered för torkning:
+  - Värm ugnen till 80°C. Om din ugn inte når denna temperatur, använd den lägsta inställningen och håll ugnsluckan lite på glänt för luftcirkulation.
+  - Klä bakplåtar med aluminiumfolie för enkel rengöring.
+  - Placera ugnsgaller ovanpå plåtarna för att möjliggöra luftcirkulation runt köttet.
 
-                ### 4. Placera köttet:
-                - Ta ut köttstrimlorna ur marinaden och låt överflödig vätska droppa av.
-                - Lägg strimlorna i ett enda lager på gallren utan att de överlappar.
-                - Alternativt: sätt dem på grillspett och låt dem hänga ner mellan gallrena.
+  ### 4. Placera köttet:
+  - Ta ut köttstrimlorna ur marinaden och låt överflödig vätska droppa av.
+  - Lägg strimlorna i ett enda lager på gallren utan att de överlappar.
+  - Alternativt: sätt dem på grillspett och låt dem hänga ner mellan gallrena.
 
-                ### 5. Torka köttet:
-                - Sätt in plåtarna i ugnen och torka köttet i cirka 4 timmar. Vänd strimlorna efter halva tiden.
-                - Jerky är klart när det är torrt, fast och fortfarande lite böjligt.
-                - **Obs:** Torktiden kan variera beroende på köttets tjocklek och ugnens effektivitet.
+  ### 5. Torka köttet:
+  - Sätt in plåtarna i ugnen och torka köttet i cirka 4 timmar. Vänd strimlorna efter halva tiden.
+  - Jerky är klart när det är torrt, fast och fortfarande lite böjligt.
+  - **Obs:** Torktiden kan variera beroende på köttets tjocklek och ugnens effektivitet.
 
-                ### 6. Kyl och förvara:
-                - Låt beef jerky kallna helt på gallren.
-                - Förvara jerky i en lufttät behållare eller plastpåse.
-                - **Förvaringsanvisning:** Kan förvaras i rumstemperatur i upp till en månad eller i kylen för längre hållbarhet.
+  ### 6. Kyl och förvara:
+  - Låt beef jerky kallna helt på gallren.
+  - Förvara jerky i en lufttät behållare eller plastpåse.
+  - **Förvaringsanvisning:** Kan förvaras i rumstemperatur i upp till en månad eller i kylen för längre hållbarhet.
 
-                ---
+  ---
 
-                ## Tips
+  ## Tips
 
-                - **Frys köttet lätt:** Underlättar att skära tunna och jämna strimlor.
-                - **Luftcirkulation:** Användning av galler ger jämn torkning.
-                - **Ugnsluckan:** Håll den lite på glänt för att bibehålla låg temperatur och luftflöde.
+  - **Frys köttet lätt:** Underlättar att skära tunna och jämna strimlor.
+  - **Luftcirkulation:** Användning av galler ger jämn torkning.
+  - **Ugnsluckan:** Håll den lite på glänt för att bibehålla låg temperatur och luftflöde.
 
-                ---
+  ---
 
-                ## Smakvariationer
+  ## Smakvariationer
 
-                - Lägg till cayennepeppar eller chiliflakes för en hetare variant.
-                - Prova paprikapulver eller spiskummin för extra smak.
+  - Lägg till cayennepeppar eller chiliflakes för en hetare variant.
+  - Prova paprikapulver eller spiskummin för extra smak.
